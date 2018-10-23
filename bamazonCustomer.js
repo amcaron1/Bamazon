@@ -62,8 +62,8 @@ function afterConnection() {
   })
 }
 
-// If enough product is in stock, this function calculates quantity, calculates cost, and decrements product sales
-
+// If enough product is in stock, this function calculates cost, calculates product sales, and decrements quantity
+// It then displays the cost to the user
 function processOrder(user_item_id,user_quantity) {
   
   // Gets the quantity of the user's request item

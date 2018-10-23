@@ -9,7 +9,7 @@ const cTable = require('console.table');
 
 // Stores the options for the supervisor
 var choiceArray = [
-    "View Products by Department",
+    "View Product Sales by Department",
     "Create New Department"];
 
 // Sets up database connection parameters
@@ -42,7 +42,7 @@ function afterConnection() {
 
         switch (response.supervisorOptions){
 
-            case "View Products by Department":
+            case "View Product Sales by Department":
                 viewProductSales();
                 break;
 
