@@ -19,7 +19,15 @@
             - Create New Department: Allows supervisor to add a new department
 
 - Screen Shots
-    - 
+    - https://github.com/amcaron1/Bamazon/blob/master/images/bamazonCustomer1.JPG
+    - https://github.com/amcaron1/Bamazon/blob/master/images/bamazonCustomer2.JPG
+    - https://github.com/amcaron1/Bamazon/blob/master/images/bamazonCustomer3.JPG
+    - https://github.com/amcaron1/Bamazon/blob/master/images/bamazonManager1.JPG
+    - https://github.com/amcaron1/Bamazon/blob/master/images/bamazonManager2.JPG
+    - https://github.com/amcaron1/Bamazon/blob/master/images/bamazonManager3.JPG
+    - https://github.com/amcaron1/Bamazon/blob/master/images/bamazonManager4.JPG
+    - https://github.com/amcaron1/Bamazon/blob/master/images/bamazonSupervisor1.JPG
+    - https://github.com/amcaron1/Bamazon/blob/master/images/bamazonSupervisor2.JPG
 
 
 - Key or new skills
